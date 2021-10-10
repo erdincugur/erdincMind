@@ -1,6 +1,6 @@
-package service;
+package com.erdinc.mindbehind.service;
 
-import model.CommentDto;
+import com.erdinc.mindbehind.model.CommentDto;
 
 import java.util.List;
 
